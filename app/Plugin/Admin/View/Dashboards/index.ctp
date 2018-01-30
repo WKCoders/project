@@ -36,9 +36,7 @@
 			</div>
 		<p>&nbsp;</p>
 		<div class="row">	
-			<h2>hello changes done here</h2>
-			<p>rughrhjrgvhjkgnvjgnvjgrnvkgnjnkj
-			tnktjjtjbtj</p>
+			<h1>hello new changes heare</h1>
 			<div class="col-md-12">
 				<div class="panel panel-midnightblue">
 					<div class="panel-heading"><h4>Chart Wise Report</h4></div>
